@@ -26,7 +26,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Package.describe({
   name: 'raix:md5',
   summary: 'FastMD5 by @iReal based on Joseph Myers`s high-performance md5. (wrapped for meteor)',
-  version: '1.0.0-rc3', // theres only one RC1 sha aa796d899aabd141693b96959cb737c3b6c4df07
+  version: '1.0.1', // theres only one RC1 sha aa796d899aabd141693b96959cb737c3b6c4df07
   git: 'https://github.com/iReal/FastMD5.git'
 });
 
